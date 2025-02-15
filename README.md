@@ -12,5 +12,5 @@
 OBSERVAÇÕES: O acesso poderá ser realizado via telefone ou desktop priorizando a capacidade de manter a população informada sobre possíveis desastres que podem ocorrer na cidade ou/e ainda criar um canal capaz de receber doações ou orientações vindas dos mesmos.</p>
   <h3>Segue também estimativas calculadas em anexo</h3>
 
-  <h3>Ressalta-se que caso exista necessidade de implantação uma equipe deve revisar os documentos no intuito de analisar se os números apresentados são plausiveis </h3>
+  <h3>Ressalta-se que caso exista necessidade de implantação uma equipe deve revisar os documentos no intuito de analisar se os números apresentados são plausíveis </h3>
 </center>
